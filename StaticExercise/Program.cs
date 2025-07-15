@@ -1,6 +1,6 @@
 ﻿namespace StaticExercise
 {
-    public class Program
+    public class Program //Why am I not making this class static? If the class was static, could I just use "WriteLine" without "Console"?
     {
         static void Main(string[] args)
         {
